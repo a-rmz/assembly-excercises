@@ -8,7 +8,7 @@ The exercises can be found [here](http://cursos.iteso.mx/pluginfile.php/687940/m
 - [x] Ej. 2
 - [x] Ej. 3
 - [x] Ej. 4
-- [ ] Ej. 5
+- [x] Ej. 5
 - [x] Ej. 6
 - [ ] Ej. 7
 - [ ] Ej. 8
