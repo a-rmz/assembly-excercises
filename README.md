@@ -5,11 +5,11 @@
 The excercises can be found [here](http://cursos.iteso.mx/pluginfile.php/687940/mod_page/content/1/Documentos_FMPO11/Documentos/Ejercicios/FMPP11-Ejercicios_de_programacion_Todos.doc)
 
 - [x] Ej. 1
-- [ ] Ej. 2
-- [ ] Ej. 3
-- [ ] Ej. 4
+- [x] Ej. 2
+- [x] Ej. 3
+- [x] Ej. 4
 - [ ] Ej. 5
-- [ ] Ej. 6
+- [x] Ej. 6
 - [ ] Ej. 7
 - [ ] Ej. 8
 - [ ] Ej. 9
