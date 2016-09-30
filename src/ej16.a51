@@ -16,7 +16,6 @@ main:	MOV DPTR, #1C00H
 		MOV DPTR, #1C01H
 		MOVX A, @DPTR
 		MOV R1, A
-		;ANL A, 0FFH
 		JZ cero1
 cont:	MOV R3, #00H
 ciclo:	MOV A, R0
@@ -44,7 +43,6 @@ guard:	MOV A, R0
 fin:	JMP $
 		
 cero1:	MOV A, R1
-		;ANL A, 0FFH
 		JZ cero2
 		JMP cont
 		
