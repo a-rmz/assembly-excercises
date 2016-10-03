@@ -12,16 +12,16 @@ The exercises can be found [here](http://cursos.iteso.mx/pluginfile.php/687940/m
 - [x] Ej. 6
 - [x] Ej. 7
 - [x] Ej. 8
-- [ ] Ej. 9
+- [x] Ej. 9
 - [x] Ej. 10
 - [ ] Ej. 11
 - [x] Ej. 12
 - [ ] Ej. 13
-- [ ] Ej. 14
+- [x] Ej. 14
 - [ ] Ej. 15
-- [ ] Ej. 16
+- [x] Ej. 16
 - [ ] Ej. 17
-- [ ] Ej. 18
+- [x] Ej. 18
 - [ ] Ej. 19
 - [ ] Ej. 20
 - [ ] Ej. 21
