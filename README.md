@@ -14,7 +14,7 @@ The exercises can be found [here](http://cursos.iteso.mx/pluginfile.php/687940/m
 - [x] Ej. 8
 - [x] Ej. 9
 - [x] Ej. 10
-- [ ] Ej. 11
+- [x] Ej. 11
 - [x] Ej. 12
 - [ ] Ej. 13
 - [x] Ej. 14
